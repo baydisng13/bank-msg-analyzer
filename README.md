@@ -89,6 +89,4 @@ Follow these steps to set up and run the project locally.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-This README gives a clear guide on how to set up the project and what steps to follow. It also includes instructions for preparing the message file, which is essential for running the tool.
